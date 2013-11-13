@@ -1,7 +1,0 @@
-Express server listening on port \\.\pipe\0e03af0d-d34e-44eb-a0ee-ef9326957d2b
-[90mGET / [32m200 [90m31ms - 170[0m
-Connected to 'pkgsdb' database
-The 'pkgsdb' collection doesn't exist. Creating it with sample data...
-[90mGET /pkgs/ [32m200 [90m650ms - 315.71kb[0m
-Retrieving pkg: 52826f82311738086500005c
-[90mGET /pkgs/52826f82311738086500005c [32m200 [90m343ms - 1.8kb[0m
