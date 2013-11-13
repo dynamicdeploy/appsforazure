@@ -9,7 +9,8 @@ http://www.dynamicdeploy.com
 
 Enjoy!
 
-Credits: Christophe Coenraets The article without which this app woun't have been possible.
+Credits: Christophe Coenraets. 
+The article without which this app would't have been possible.
 
 http://coenraets.org/blog/2012/10/nodecellar-sample-application-with-backbone-js-twitter-bootstrap-node-js-express-and-mongodb/#comment-442133
 
