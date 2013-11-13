@@ -1,0 +1,45 @@
+Express server listening on port \\.\pipe\f60d8e8e-e68f-43ba-a037-30877c8e887a
+[90mGET / [36m304 [90m3ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m3ms[0m
+Connected to 'pkgsdb' database
+[90mGET /images/b/Setup6.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m2ms[0m
+[90mGET / [36m304 [90m2ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m8ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000062
+[90mGET /pkgs/52827aa2b11a9a2c4f000062 [32m200 [90m355ms - 0[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m2ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000087
+[90mGET /pkgs/52827aa2b11a9a2c4f000087 [32m200 [90m317ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000083
+[90mGET /pkgs/52827aa2b11a9a2c4f000083 [32m200 [90m276ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000082
+[90mGET /pkgs/52827aa2b11a9a2c4f000082 [32m200 [90m294ms - 0[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m2ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000081
+[90mGET /pkgs/52827aa2b11a9a2c4f000081 [32m200 [90m397ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000082
+[90mGET /pkgs/52827aa2b11a9a2c4f000082 [32m200 [90m377ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000082
+[90mGET /pkgs/52827aa2b11a9a2c4f000082 [32m200 [90m305ms - 0[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m1ms[0m
+Retrieving pkg: 5282bdba7689651c0b000003
+[90mGET /pkgs/5282bdba7689651c0b000003 [32m200 [90m365ms - 1.91kb[0m
+Retrieving pkg: 5282bdba7689651c0b000003
+[90mGET /pkgs/5282bdba7689651c0b000003 [36m304 [90m381ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m2ms[0m
+Retrieving pkg: 5282bdba7689651c0b000003
+[90mGET /pkgs/5282bdba7689651c0b000003 [32m200 [90m347ms - 1.91kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m0ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m10ms[0m

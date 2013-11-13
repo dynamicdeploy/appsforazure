@@ -1,0 +1,20 @@
+Express server listening on port \\.\pipe\d95eb0fe-026f-4645-84aa-18db6f2953fa
+[90mGET / [36m304 [90m25ms[0m
+Connected to 'pkgsdb' database
+[90mGET /socket.io/socket.io.js [33m404 [90m4ms[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m0ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m1ms[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m1ms[0m
+[90mGET /pkgs [32m200 [90m1229ms - 315.71kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+Retrieving pkg: 5282bdba7689651c0b000003
+[90mGET /pkgs/5282bdba7689651c0b000003 [32m200 [90m400ms - 1.91kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+Retrieving pkg: 5282bdba7689651c0b00004a
+[90mGET /pkgs/5282bdba7689651c0b00004a [32m200 [90m2002ms - 2.15kb[0m
+Retrieving pkg: 5282bdba7689651c0b000050
+[90mGET /pkgs/5282bdba7689651c0b000050 [32m200 [90m1156ms - 2.4kb[0m

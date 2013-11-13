@@ -1,0 +1,89 @@
+<div class="row-fluid">
+
+    <form class="form-horizontal span12">
+
+        <fieldset>
+
+            <legend>Package Details</legend>
+            <br/>
+
+            <div class="row">
+                <div class="span8">
+
+                    <div class="control-group">
+                        <label for="pkgId" class="control-label">Id:</label>
+
+                        <div class="controls">
+                            <input id="pkgId" name="id" type="text" value="<%= _id === null ? '' : _id %>"
+                                   disabled/>
+                        </div>
+                    </div>
+
+                         <div class="control-group">
+                        <label for="name" class="control-label">DisplayName:</label>
+
+                        <div class="controls">
+                            <input type="text" id="DisplayName" name="DisplayName" value="<%= DisplayName %>" disabled/>
+                            <span class="help-inline"></span>
+                        </div>
+                    </div>
+
+                 
+
+                    <div class="control-group">
+                        <label for="Category" class="control-label">Category:</label>
+
+                        <div class="controls">
+                            <input type="text" id="Category" name="Category" value="<%= Category %>" disabled />
+                            <span class="help-inline" ></span>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="PackageTypeString" class="control-label">PackageTypeString:</label>
+
+                        <div class="controls">
+                            <input type="text" id="PackageTypeString" name="PackageTypeString" value="<%= PackageTypeString %>" disabled/>
+                            <span class="help-inline"></span>
+                        </div>
+                    </div>
+
+              
+                    <div class="control-group">
+                        <label for="Description" class="control-label">Description:</label>
+
+                        <div class="controls">
+                            <label id="Description" style="width: 90%;" rows="6"><%= Description %></label>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="span4">
+                    <div class="well" style="width: 180px;text-align: center;width:50%;margin: 0px auto;">
+                        <a href="https://www.dynamicdeploy.com/packagedetails.aspx?pkgid=<%= PackageId %>">
+                        <p><img id="PackageLogoLargeUri" width="180" src="<%= PackageLogoLargeUri === null ? 'pics/generic.jpg' : PackageLogoLargeUri %>"/></p>
+                           
+                            </a>
+                        
+                    </div>
+                    <br />
+                    
+                     <div style="width: 320px;text-align: center;width:50%;margin: 0px auto;">
+                      <a href="https://www.dynamicdeploy.com/packagedetails.aspx?pkgid=<%= PackageId %>">
+                      
+                              <p><img id="Deploy" width="280" src="/img/deploy.png"/></p>
+                            </a>
+                         </div>
+                </div>
+
+            </div>
+
+        </fieldset>
+
+      
+
+    </form>
+
+</div>
+

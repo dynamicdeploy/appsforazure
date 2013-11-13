@@ -1,0 +1,29 @@
+Express server listening on port \\.\pipe\fbaeafea-47de-4924-90ef-e4552b3b8510
+[90mGET / [32m200 [90m7ms - 2.82kb[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m4ms[0m
+Connected to 'pkgsdb' database
+[90mGET /pkgs [32m200 [90m1033ms - 315.71kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup26.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup46.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup44.png [33m404 [90m5ms[0m
+[90mGET /images/b/Setup4.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup42.png [33m404 [90m1ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000056
+[90mGET /pkgs/52827aa2b11a9a2c4f000056 [32m200 [90m354ms - 2.65kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup26.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup46.png [33m404 [90m6ms[0m
+[90mGET /images/b/Setup44.png [33m404 [90m4ms[0m
+[90mGET /images/b/Setup4.png [33m404 [90m7ms[0m
+[90mGET /images/b/Setup42.png [33m404 [90m1ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f00003a
+[90mGET /pkgs/52827aa2b11a9a2c4f00003a [32m200 [90m320ms - 2.8kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m2ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m4ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m2ms[0m

@@ -1,0 +1,42 @@
+Express server listening on port \\.\pipe\aa6c4485-cfd6-44a7-ba78-0d1682b0f6c8
+[90mGET / [36m304 [90m4ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m2ms[0m
+Connected to 'pkgsdb' database
+The 'pkgsdb' collection doesn't exist. Creating it with sample data...
+[90mGET /pkgs/ [32m200 [90m968ms - 315.71kb[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+[90mGET / [36m304 [90m2ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m14ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m0ms[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m2ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000001
+[90mGET /pkgs/52827aa2b11a9a2c4f000001 [32m200 [90m343ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000003
+[90mGET /pkgs/52827aa2b11a9a2c4f000003 [32m200 [90m343ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000007
+[90mGET /pkgs/52827aa2b11a9a2c4f000007 [32m200 [90m267ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000066
+[90mGET /pkgs/52827aa2b11a9a2c4f000066 [32m200 [90m321ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000064
+[90mGET /pkgs/52827aa2b11a9a2c4f000064 [32m200 [90m318ms - 0[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+[90mGET /pkgs/ [32m200 [90m731ms - 315.71kb[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m3ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000006
+[90mGET /pkgs/52827aa2b11a9a2c4f000006 [32m200 [90m327ms - 0[0m
+[90mGET / [36m304 [90m2ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m13ms[0m
+[90mGET /images/b/Setup6.png [33m404 [90m1ms[0m
+[90mGET /images/b/Setup25.png [33m404 [90m1ms[0m
+Retrieving pkg: 52827aa2b11a9a2c4f000008
+[90mGET /pkgs/52827aa2b11a9a2c4f000008 [32m200 [90m309ms - 0[0m
+Retrieving pkg: 52827aa2b11a9a2c4f00007b
+[90mGET /pkgs/52827aa2b11a9a2c4f00007b [32m200 [90m262ms - 0[0m

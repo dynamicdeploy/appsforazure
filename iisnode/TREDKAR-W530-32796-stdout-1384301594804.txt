@@ -1,0 +1,6 @@
+Express server listening on port \\.\pipe\d4a51c16-b469-40be-9813-e9b9239b0625
+[90mGET / [36m304 [90m7ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m12ms[0m
+Connected to 'pkgsdb' database
+[90mGET / [36m304 [90m2ms[0m
+[90mGET /socket.io/socket.io.js [33m404 [90m3ms[0m
